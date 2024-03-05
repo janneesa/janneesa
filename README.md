@@ -12,4 +12,4 @@ I'm Janne Savinainen, I'm a software engineer 👨‍💻
 
 
 ---
-⭐️ From [KunalRaghav](https://github.com/KunalRaghav)
+⭐️ From [janneesa](https://github.com/janneesa)

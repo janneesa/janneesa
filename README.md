@@ -6,7 +6,7 @@ I'm a passionate software engineer student specializing in **Software Developmen
 ## 🚀 About Me
 
 - 💻 I’m currently working on software development projects
-- 🌱 I’m currently diving deep into **Java** and **C#**
+- 🌱 I’m currently diving deep into **Java**
 - 💬 Ask me about tech, memes, anime, games, and Magic: The Gathering
 - ⚡ Fun fact: I'm a huge fan of Studio Ghibli films
 
@@ -16,7 +16,6 @@ I'm a passionate software engineer student specializing in **Software Developmen
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![GDScript](https://img.shields.io/badge/-GDScript-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 

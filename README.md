@@ -5,10 +5,10 @@ I'm a passionate software engineer student specializing in **Software Developmen
 
 ## 🚀 About Me
 
-- 💻 I’m currently working on software development projects
-- 🌱 I’m currently diving deep into **Java**
-- 💬 Ask me about tech, memes, anime, games, and Magic: The Gathering
-- ⚡ Fun fact: I'm a huge fan of Studio Ghibli films
+- 💻 I’m currently working on software engineering projects
+- 🌱 I’m learnign and diving deep into **Java**
+- 💬 Ask me about tech, Boulder climbing, Magic: The Gathering and Video games
+- ⚡ Fun fact: I used to be a professional barber
 
 ## 🛠️ Skills & Tools
 
@@ -25,6 +25,10 @@ I'm a passionate software engineer student specializing in **Software Developmen
 - **[BeatGo](https://github.com/janneesa/BeatGo-project)**
   - Description: Heart rate and heart rate variability analysis device implemented using Raspberry Pi Pico W and Crowtail - Pulse Sensor.
   - Tech Stack: Python.
+
+- **[ToDoList](https://github.com/janneesa/TodoList)**
+  - Description: Simple project to learn some basic React Native skills.
+  - Tech Stack: React Native, JavaScript
 
 ### 🎮 Game Development
 - **[Cyperhack](https://github.com/janneesa/cyperhack)**

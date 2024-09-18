@@ -22,6 +22,10 @@ I'm a passionate software engineer student specializing in **Software Developmen
 ## 🖥️ My Projects
 
 ### 🌐 Software Development
+- **[Commander Scoreboard](https://github.com/janneesa/CommanderScoreboard)**
+  - Description: Full stack project to keep track of Magic: The Gathering scores.
+  - Tech Stack: HTML, CSS, JavaScript, Python.
+
 - **[BeatGo](https://github.com/janneesa/BeatGo-project)**
   - Description: Heart rate and heart rate variability analysis device implemented using Raspberry Pi Pico W and Crowtail - Pulse Sensor.
   - Tech Stack: Python.

@@ -6,7 +6,7 @@ I'm a passionate software engineer student specializing in **Software Developmen
 ## 🚀 About Me
 
 - 💻 I’m currently working on software engineering projects
-- 🌱 I’m learnign and diving deep into **Java**
+- 🌱 I’m learnign and diving deep into **React**
 - 💬 Ask me about tech, Boulder climbing, Magic: The Gathering and Video games
 - ⚡ Fun fact: I used to be a professional barber
 
@@ -18,6 +18,7 @@ I'm a passionate software engineer student specializing in **Software Developmen
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![GDScript](https://img.shields.io/badge/-GDScript-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![REACTJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 
 ## 🖥️ My Projects
 

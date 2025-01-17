@@ -43,7 +43,7 @@ contribute to impactful projects while growing my expertise.
   - Description: FutureCast is a full-stack web application that allows users to create, share, and discuss predictions on various topics.
   - Tech Stack: React, Node.js, MongoDB, Tailwind CSS, JWT Authentication.
 
-- **[Airport Simulator](https://github.com/janneesa/AirportSimulationGUI/tree/master)**
+- **[Airport Simulator](https://github.com/janneesa/AirportSimulationGUI)**
   - Description: Simulation project designed to model customer flow through various airport service points.
   - Tech Stack: Java, JavaFX, SQL, JUnit 5.
 

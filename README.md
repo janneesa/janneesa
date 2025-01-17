@@ -8,7 +8,7 @@ contribute to impactful projects while growing my expertise.
 ## 🚀 About Me
 
 - 💻 I’m currently working on software engineering projects
-- 🌱 I’m learnign and diving deep into data models and design Patterns
+- 🌱 I’m learning and diving deep into data models and design Patterns
 - 💬 Ask me about tech, Boulder climbing, Magic: The Gathering and Video games
 - ⚡ Fun fact: I used to be a professional barber
 

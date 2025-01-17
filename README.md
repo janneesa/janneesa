@@ -51,10 +51,6 @@ contribute to impactful projects while growing my expertise.
   - Description: Heart rate and heart rate variability analysis device implemented using Raspberry Pi Pico W and Crowtail - Pulse Sensor.
   - Tech Stack: Python.
 
-- **[Commander Scoreboard](https://github.com/janneesa/CommanderScoreboard)**
-  - Description: Full stack project to keep track of Magic: The Gathering scores.
-  - Tech Stack: HTML, CSS, JavaScript, Python.
-
 ### 🎮 Game Development
 - **[Cyperhack](https://github.com/janneesa/cyperhack)**
   - Description: Web browser game made with javascript and html. All art is made by AI.

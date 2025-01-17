@@ -60,10 +60,6 @@ contribute to impactful projects while growing my expertise.
   - Description: Web browser game made with javascript and html. All art is made by AI.
   - Tech Stack: JavaScript, HTML, CSS.
 
-## 📈 GitHub Stats
-
-![Janne's GitHub Stats](https://github-readme-stats.vercel.app/api?username=janneesa&show_icons=true&theme=radical)
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://fi.linkedin.com/in/janne-savinainen-6064372aa)

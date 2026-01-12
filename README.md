@@ -7,8 +7,8 @@ contribute to impactful projects while growing my expertise.
 
 ## 🚀 About Me
 
-- 💻 I’m currently working on software engineering projects
-- 🌱 I’m learning and diving deep into data models and design Patterns
+- 💻 I’m currently working on software engineering and game development
+- 🌱 I’m learning and diving deep into machine learning
 - 💬 Ask me about tech, Boulder climbing, Magic: The Gathering and Video games
 - ⚡ Fun fact: I used to be a professional barber
 
@@ -18,6 +18,7 @@ contribute to impactful projects while growing my expertise.
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
@@ -31,6 +32,7 @@ contribute to impactful projects while growing my expertise.
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)
 
 ### Other
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![GDScript](https://img.shields.io/badge/-GDScript-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)

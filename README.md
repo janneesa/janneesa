@@ -54,7 +54,7 @@ contribute to impactful projects while growing my expertise.
   - Tech Stack: Python.
 
 ### 🤖 AI
-- **[Ollama agent tutorial](https://github.com/janneesa/ollama-agent-workflows)**
+- **[Ollama Agent Tutorial](https://github.com/janneesa/ollama-agent-workflows)**
   - Description: A step-by-step tutorial on how LLM agents work, built with the Ollama Python SDK and fully local models.
   - Tech Stack: Python, Ollama.
 

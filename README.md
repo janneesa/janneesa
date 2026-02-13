@@ -8,7 +8,7 @@ contribute to impactful projects while growing my expertise.
 ## 🚀 About Me
 
 - 💻 I’m currently working on software engineering and game development
-- 🌱 I’m learning and diving deep into machine learning
+- 🌱 I’m learning and diving deep into machine learning and AI agents
 - 💬 Ask me about tech, Boulder climbing, Magic: The Gathering and Video games
 - ⚡ Fun fact: I used to be a professional barber
 
@@ -53,10 +53,10 @@ contribute to impactful projects while growing my expertise.
   - Description: Heart rate and heart rate variability analysis device implemented using Raspberry Pi Pico W and Crowtail - Pulse Sensor.
   - Tech Stack: Python.
 
-### 🎮 Game Development
-- **[Cyperhack](https://github.com/janneesa/cyperhack)**
-  - Description: Web browser game made with javascript and html. All art is made by AI.
-  - Tech Stack: JavaScript, HTML, CSS.
+### 🤖 AI
+- **[Ollama agent tutorial](https://github.com/janneesa/ollama-agent-workflows)**
+  - Description: A step-by-step tutorial on how LLM agents work, built with the Ollama Python SDK and fully local models.
+  - Tech Stack: Python, Ollama.
 
 ## 📫 Connect with Me
 

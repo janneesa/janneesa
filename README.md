@@ -41,6 +41,10 @@ contribute to impactful projects while growing my expertise.
 ## 🖥️ My Projects
 
 ### 🌐 Software Development
+- **[Commander Game](https://github.com/janneesa/commander-game)**
+  - Description: Commander Game is a web application designed to engage users in a fun and interactive way by guessing the creature types of Magic: The Gathering commanders.
+  - Tech Stack: Node.js, Express.js, React, MongoDB, Scryfall API, TailwindCSS, Git
+
 - **[FutureCast](https://github.com/janneesa/FutureCast)**
   - Description: FutureCast is a full-stack web application that allows users to create, share, and discuss predictions on various topics.
   - Tech Stack: React, Node.js, MongoDB, Tailwind CSS, JWT Authentication.
@@ -49,14 +53,14 @@ contribute to impactful projects while growing my expertise.
   - Description: Simulation project designed to model customer flow through various airport service points.
   - Tech Stack: Java, JavaFX, SQL, JUnit 5.
 
-- **[BeatGo](https://github.com/janneesa/BeatGo-project)**
-  - Description: Heart rate and heart rate variability analysis device implemented using Raspberry Pi Pico W and Crowtail - Pulse Sensor.
-  - Tech Stack: Python.
-
 ### 🤖 AI
 - **[Ollama Agent Tutorial](https://github.com/janneesa/ollama-agent-workflows)**
   - Description: A step-by-step tutorial on how LLM agents work, built with the Ollama Python SDK and fully local models.
   - Tech Stack: Python, Ollama.
+
+- **[SENA - Self-Hosted Neural Assistant (ongoing)](https://github.com/janneesa/sena)**
+  - Description: Sena is a synchronous state-machine AI agent project built with Python and Ollama.
+  - Tech Stack: Python, Ollama, Docker.
 
 ## 📫 Connect with Me
 
